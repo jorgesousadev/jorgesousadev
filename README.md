@@ -3,14 +3,14 @@
 </h1>
 
 <p align='center'>
+  <a href='mailto:jorge.sousa7@outlook.com'>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/jorgesousag/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/1997jorges/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="jorge.sousa7@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
@@ -20,10 +20,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesousadev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<p align='center'>
-  📫 Como chegar até mim: <a href='mailto:jorge.sousa7@outlook.com'>jorge.sousa7@outlook.com</a>
-</p>
-
 <h1 align='center'>
   🌱 Estou aprendendo:
 </h1>
