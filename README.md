@@ -2,6 +2,15 @@
   Olá, meu nome é Jorge 👋
 </h1>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jorgesousag/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/1997jorges/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
 <div align="center">
   <a href="https://github.com/jorgesousadev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jorgesousadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
